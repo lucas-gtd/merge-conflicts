@@ -1,4 +1,5 @@
 # merge-conflicts
+REMOTE
 bla bla bla
 bla
 bla bla
