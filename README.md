@@ -1,4 +1,5 @@
 # merge-conflicts
+LOCAL
 bla bla bla
 bla
 bla bla
